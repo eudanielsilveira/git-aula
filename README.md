@@ -60,3 +60,11 @@ git pull
 git push
 ```
 ...mas antes de fazer o `git push` sempre colocar no stage, o que você vai enviar para para o Github, e depois, executar o `git push`.
+## Trazendo um Repositório Remoto para Minha Máquina gitclone 
+Você só precisa digitar o comando abaixo e copiar o endereço HTTPS do projeto que quer baixar para o computador.
+![image](https://github.com/user-attachments/assets/c0948703-9adf-466f-ac6d-e233ca809128)
+```bash
+git clone https://github.com/eudanielsilveira/eudanielsilveira.github.io.git
+```
+
+
