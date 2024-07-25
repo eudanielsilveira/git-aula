@@ -1,6 +1,6 @@
 ## Comandos para trabalhar com repositório local
 ## Inicia um repositório local
-``
+
 ```bash
 git init
 ```
