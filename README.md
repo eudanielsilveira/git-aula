@@ -59,3 +59,4 @@ git pull
 ```bash
 git push
 ```
+...mas antes de fazer o `git push` sempre colocar no stage, o que você vai enviar para para o Github, e depois, executar o `git push`.
