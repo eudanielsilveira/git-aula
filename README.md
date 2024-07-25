@@ -51,3 +51,11 @@ Digitando o comando `git status`, você verá que o arquivo já está com status
 // git checkout id -- nomedoarquivo
  git checkout 9b8dcd47e95f8 -- frases.txt
 ```
+## Puxa modificações do repositório remoto para o repositório local
+```bash
+git pull
+```
+## Envia as modificações locais para o repositório remoto
+```bash
+git push
+```
